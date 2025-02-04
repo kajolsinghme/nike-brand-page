@@ -15,9 +15,6 @@ This is a **Nike brand landing page** built with **React and Vite**. The page hi
 - **Vite** – Fast build tool  
 - **CSS** – Styling  
 
-## 📂 Project Structure  
-Nike-Brand-Page/ │── public/ (Static assets) │── src/ │ ├── components/ │ │ ├── Hero.jsx │ │ ├── Navigation.jsx │ ├── assets/ (Images, icons) │ ├── App.jsx │ ├── main.jsx │── package.json │── vite.config.js │── README.md
-
 ## 🚀 Installation & Setup  
 1. **Clone the repository**
    ```sh
@@ -26,15 +23,15 @@ Nike-Brand-Page/ │── public/ (Static assets) │── src/ │ ├── 
    
 2. **Install dependencies**
    ```sh
-  npm install
-
+   npm install
+   
 3. **Run the development server**
-  ```sh
-  npm run dev
-
+   ```sh
+   npm run dev
+   
 4. **Build for production**
-  ```sh
-  npm run build
+   ```sh
+   npm run build
 
 📸 Preview
 
